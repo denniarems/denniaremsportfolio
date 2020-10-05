@@ -1,0 +1,26 @@
+{
+  "name": "denniaremsportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.0.0-alpha1"
+  },
+  "devDependencies": {
+    "git-scripts": "^0.4.3",
+    "surge": "^0.21.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denniarems/denniaremsportfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denniarems/denniaremsportfolio/issues"
+  },
+  "homepage": "https://github.com/denniarems/denniaremsportfolio#readme"
+}
